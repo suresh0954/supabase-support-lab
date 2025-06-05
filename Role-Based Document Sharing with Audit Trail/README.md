@@ -6,7 +6,7 @@ This lab simulates a document-sharing platform with **role-based access control 
 
 ## 📌 Use Case
 
-> Users can create, share, and view documents based on their assigned roles:  
+> Users can create, share, and view documents based on their assigned roles:
 > - **Admin**: Full control  
 > - **Editor**: Modify content  
 > - **Viewer**: Read-only access  
