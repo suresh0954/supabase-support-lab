@@ -10,8 +10,8 @@ This repo contains a collection of hands-on labs built on Supabase to demonstrat
 
 ## Included Labs
 
-### [Lab 1: Multi-Tenant Support Debugger](./lab1-Supabase Multi-Tenant Support Debugger)
+### [Lab 1: Multi-Tenant Support Debugger](./lab1-Supabase%20Multi-Tenant%20Support%20Debugger/)
 Simulates support escalation in a multi-tenant system with RLS, broken reference debugging, and tenant-based visibility.
 
-### [Lab 2: Role-Based Document Sharing with Audit Trail](./lab2-Role-Based Document Sharing with Audit Trail)
+### [Lab 2: Role-Based Document Sharing with Audit Trail](./lab2-Role-Based%20Document%20Sharing%20with%20Audit%20Trail/)
 Implements user roles (`admin`, `editor`, `viewer`) and tracks document views using stored functions.
